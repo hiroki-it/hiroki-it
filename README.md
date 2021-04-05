@@ -10,4 +10,4 @@
 
 詳しくは，Wantedly履歴書ページをご覧いただけると幸いです．
 
-▶ [https://www.wantedly.com/users/87009413](https://www.wantedly.com/users/87009413)
+▶ [https://www.wantedly.com/id/h_hasegawa](https://www.wantedly.com/id/h_hasegawa)
