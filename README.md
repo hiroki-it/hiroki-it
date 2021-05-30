@@ -8,8 +8,8 @@
 
 ## 経歴，職歴
 
-詳しくは，**Wantedly** または **Speaker Deck** をご覧いただけると幸いです．
+詳しくは，以下のリンクまでご訪問いただけると幸いです．
 
-▶ [https://www.wantedly.com/id/h_hasegawa](https://www.wantedly.com/id/h_hasegawa)
+▶ **Wantedly**：[https://www.wantedly.com/id/h_hasegawa](https://www.wantedly.com/id/h_hasegawa)
 
-▶ [https://speakerdeck.com/hiroki_hasegawa](https://speakerdeck.com/hiroki_hasegawa)
+▶ **Speaker Deck**：[https://speakerdeck.com/hiroki_hasegawa](https://speakerdeck.com/hiroki_hasegawa)
