@@ -25,3 +25,5 @@ DDD，凝集度と結合度，クラウドインフラ，IaC，コンテナ，CI
 ▶ **Wantedly**：[https://www.wantedly.com/id/h_hasegawa](https://www.wantedly.com/id/h_hasegawa)
 
 ▶ **Speaker Deck**：[https://speakerdeck.com/hiroki_hasegawa](https://speakerdeck.com/hiroki_hasegawa)
+
+▶ **Twitter（更新頻度低いけど）**：[@Hiroki__IT](https://twitter.com/Hiroki__IT)
