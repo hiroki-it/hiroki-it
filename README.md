@@ -24,7 +24,7 @@ DDD，凝集度と結合度，クラウドインフラ，IaC，コンテナ，CI
 
 以下にて，技術的な知識を整理するようにしております．
 
-▶ **僕のドキュメントサイト**：https://hiroki-it.github.io/tech-notebook-gitbook/
+▶ **技術ノート**：https://hiroki-it.github.io/tech-notebook-gitbook/
 
 <br>
 
