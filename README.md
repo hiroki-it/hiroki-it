@@ -34,4 +34,10 @@
 
 ▶ **Wantedly**：[https://www.wantedly.com/id/h_hasegawa](https://www.wantedly.com/id/h_hasegawa)
 
+<br>
+
+## 📢 社内発信スライド
+
+詳しくは，以下のリンクまでご訪問いただけると幸いです．
+
 ▶ **Speaker Deck**：[https://speakerdeck.com/hiroki_hasegawa](https://speakerdeck.com/hiroki_hasegawa)
