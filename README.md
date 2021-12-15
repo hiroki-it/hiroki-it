@@ -22,9 +22,25 @@
 
 ## 📚 学習記録
 
-以下にて，技術的な知識を整理するようにしております．
+技術的な知識を体系的に整理するため，ノートにまとめております．
+
+知見の共有になれば幸いです．
 
 ▶ **技術ノート**：https://hiroki-it.github.io/tech-notebook-gitbook/
+
+<br>
+
+## 🏭 リポジトリ
+
+知見の共有になれば幸いです．
+
+▶ Clean-Arch，Laravel，GitHub Actions：https://github.com/hiroki-it/ddd-api-with-laravel
+
+▶ Clean-Arch，Gin：https://github.com/hiroki-it/ddd-api-with-go-gin
+
+▶ Clean-Arch，Go，Serverless Framework，CircleCI：https://github.com/hiroki-it/notify-slack-of-amplify-events
+
+▶ マイクロサービスアーキテクチャ，Kubernetes：https://github.com/hiroki-it/microservices-with-kubernetes
 
 <br>
 
