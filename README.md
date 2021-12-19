@@ -40,8 +40,6 @@
 
 ▶ Clean-Arch，Go，Serverless Framework，CircleCI：https://github.com/hiroki-it/notify-slack-of-amplify-events
 
-▶ マイクロサービスアーキテクチャ，Kubernetes：https://github.com/hiroki-it/microservices-with-kubernetes
-
 <br>
 
 ## 💼 経歴，職歴
