@@ -24,9 +24,7 @@
 
 技術的な知識を体系的に整理するため，ノートにまとめております．
 
-知見の共有になれば幸いです．
-
-▶ **技術ノート**：https://hiroki-it.github.io/tech-notebook-gitbook/
+▶ **技術ノート**：https://hiroki-it.github.io/tech-notebook-mkdocs/md
 
 <br>
 
