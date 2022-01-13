@@ -24,6 +24,8 @@
 
 技術的な知識を体系的に整理するため，ノートにまとめております．
 
+PCからの閲覧のみ対応しており，SPには非対応です🙇‍♂️
+
 ▶ **技術ノート**：https://hiroki-it.github.io/tech-notebook-mkdocs/md/about.html
 
 <br>
