@@ -16,7 +16,7 @@
 
 **拡張性**，**保守性**，**可読性**を高める技術に関心があります．
 
-ドメイン駆動設計，アーキテクチャ，クラウドインフラ，IaC，コンテナ，CI/CD，Go，etc...
+▶ ドメイン駆動設計，アーキテクチャ，クラウドインフラ，IaC，コンテナ，CI/CD，Go，etc...
 
 <br>
 
@@ -53,3 +53,5 @@
 詳しくは，以下のリンクまでご訪問いただけると幸いです．
 
 ▶ **Speaker Deck**：[https://speakerdeck.com/hiroki_hasegawa](https://speakerdeck.com/hiroki_hasegawa)
+
+<br>
