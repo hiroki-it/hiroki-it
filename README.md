@@ -40,7 +40,7 @@
 
 ▶ https://github.com/hiroki-it/notify-slack-of-amplify-events （Clean-Arch，Go，Serverless Framework，CircleCI，...）
 
-▶ https://github.com/hiroki-it/notify-slack-of-amplify-events （Microservices-Arch，K8s，Istio，...）
+▶ https://github.com/hiroki-it/microservices-with-kubernetes （Microservices-Arch，K8s，Istio，...）
 
 <br>
 
