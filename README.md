@@ -11,7 +11,7 @@
 <span style="font-size: 80%;">After that, I started my career as a **SWE** in web applications.</span><br>
 その後，Webアプリケーションの **SWE** としてキャリアをスタートしました．
 
-<span style="font-size: 80%;">Currently, I am working as **SRE**.</span><br>
+<span style="font-size: 80%;">Currently, I am working as a **SRE**.</span><br>
 現在は，**SRE** として働かさせていただいております．
 
 <br>
