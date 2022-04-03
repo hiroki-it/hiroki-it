@@ -19,7 +19,7 @@
 ## 🎯 関心のある技術領域
 
 <span style="font-size: 90%;">I am interested in technologies that enhance **extensibility**, **maintainability** and **readability**, in backend and infrastructure.</span><br>
-Webアプリのバックエンドとインフラの領域で **拡張性** / **保守性** / **可読性** を高める技術に関心があります．
+Webアプリケーションのバックエンドとインフラの領域で **拡張性** / **保守性** / **可読性** を高める技術に関心があります．
 
 <span style="font-size: 90%;">DDD, Microservices architecture, Cloud computing, Containers, IaC, DevOps</span><br>
 ▶ ドメイン駆動設計，マイクロサービスアーキ，クラウドコンピューティング，コンテナ，IaC，DevOps，...
