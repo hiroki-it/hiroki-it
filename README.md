@@ -2,7 +2,7 @@
 
 ## 👋🏻 はじめまして
 
-<span style="font-size: 90%;">I"m Hiroki Hasegawa.</span><br>
+<span style="font-size: 90%;">I'm Hiroki Hasegawa.</span><br>
 長谷川広樹と申します．
 
 <span style="font-size: 90%;">I studied **bioinformatics** at the graduate school, and obtained a master of science.</span><br>
