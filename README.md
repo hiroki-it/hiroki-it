@@ -28,7 +28,7 @@ Webアプリのバックエンドとインフラの領域で **拡張性** / **�
 
 ## 📚 知見の記録
 
-<span style="font-size: 80%;">In order to systematically organize technical knowledge, I have summarized it in my notebook.</span><br>
+<span style="font-size: 80%;">In order to systematically organize technical knowledge, I summarize it in my notebook every day.</span><br>
 技術的な知識を体系的に整理するため，ノートにまとめております．
 
 ▶ **技術ノート**：https://hiroki-it.github.io/tech-notebook-mkdocs/about.html  (in Japanese)
