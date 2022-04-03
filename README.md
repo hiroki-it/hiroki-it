@@ -73,6 +73,6 @@ Webアプリのバックエンドとインフラの領域で **拡張性** / **�
 <span style="font-size: 80%;">For details, we would appreciate it if you could visit the following site.</span><br>
 詳しくは，以下のサイトまでご訪問いただけると幸いです．
 
-▶ **Speaker Deck**：[https://speakerdeck.com/hiroki_hasegawa](https://speakerdeck.com/hiroki_hasegawa)
+▶ **Speaker Deck**：[https://speakerdeck.com/hiroki_hasegawa](https://speakerdeck.com/hiroki_hasegawa) (in Japanese)
 
 <br>
