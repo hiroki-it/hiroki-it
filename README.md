@@ -12,14 +12,14 @@
 <span style="font-size: 90%;">( After that, I started my career as a **SWE** in web applications. )</span>
 
 現在は，**SRE** として働かさせていただいております．<br>
-<span style="font-size: 90%;">( Currently, I am working as a **SRE**.) </span>
+<span style="font-size: 90%;">( Currently, I'm working as a **SRE**.) </span>
 
 <br>
 
 ## 🎯 関心のある技術領域
 
 Webアプリケーションのバックエンドとインフラの領域で **拡張性** / **保守性** / **可読性** を高める技術に関心があります．<br>
-<span style="font-size: 90%;">( I am interested in technologies that enhance **extensibility**, **maintainability** and **readability**, in backend and infrastructure. )</span>
+<span style="font-size: 90%;">( I'm interested in technologies that enhance **extensibility**, **maintainability** and **readability**, in backend and infrastructure. )</span>
 
 ▶ ドメイン駆動設計，マイクロサービスアーキ，クラウドコンピューティング，コンテナ，IaC，DevOps，...<br>
 <span style="font-size: 90%;">( DDD, Microservices architecture, Cloud computing, Containers, IaC, DevOps, ... )</span>
@@ -38,7 +38,7 @@ Webアプリケーションのバックエンドとインフラの領域で **�
 ## 🏭 練習用リポジトリ
 
 アーキテクチャ関連の技術を人知れず練習しております．<br>
-<span style="font-size: 90%;">( I am practicing architecture in the following repository. )</span>
+<span style="font-size: 90%;">( I'm practicing architecture in the following repository. )</span>
 
 知見の共有になれば幸いです．<br>
 <span style="font-size: 90%;">( I would be happy if I could share my knowledge. )</span>
