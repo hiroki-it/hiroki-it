@@ -21,8 +21,8 @@
 Webアプリケーションのインフラ領域に軸足を置きつつ，バックエンド領域も好きです．<br>
 <span style="font-size: 90%;">( I put my foot in infrastructure, and also like backend. )</span>
 
-特に，**拡張性**，**保守性**，**可読性** を高める技術に関心が強く，日々学習しています．<br>
-<span style="font-size: 90%;">( I'm interested in technologies that enhance **extensibility**, **maintainability** and **readability**, so I keep learning these every day. )</span>
+特に，**拡張性**，**保守性**，**可読性** を高める技術に関心が強く，学習しています．<br>
+<span style="font-size: 90%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**, so I keep learning these. )</span>
 
 ▶ クラウドインフラ，コンテナオーケストレーション，IaC，DDD，マイクロサービスアーキテクチャ，DevOps，など<br>
 <span style="font-size: 90%;">(Cloud infrastructure, Container orchestration, IaC, DDD, Microservices architecture, DevOps, etc. )</span>
