@@ -6,26 +6,26 @@
 <span style="font-size: 90%;">( I'm Hiroki Hasegawa. )</span>
 
 大学院にて **生物情報学** の分野で研究を行い，理学修士を習得しました．<br>
-<span style="font-size: 90%;">( I studied **Bioinformatics** at the graduate school, and obtained a Master of Science.)</span>
+<span style="font-size: 90%;">( I studied **Bioinformatics** at the graduate school, and obtained a Master of Science. )</span>
 
 その後，Webアプリケーションの **SWE** としてキャリアをスタートしました．<br>
 <span style="font-size: 90%;">( After that, I started my career as a **SWE** in web applications. )</span>
 
 現在は，**SRE** として働かさせていただいております．<br>
-<span style="font-size: 90%;">( Currently, I'm working as a **SRE**.) </span>
+<span style="font-size: 90%;">( Currently, I'm working as a **SRE**. ) </span>
 
 <br>
 
 ## 🎯 関心のある技術領域
 
 Webアプリケーションのインフラ領域に軸足を置きつつ，バックエンド領域も好きです．<br>
-<span style="font-size: 90%;">( I put my foot in infrastructure, and also like backend.)</span>
+<span style="font-size: 90%;">( I put my foot in infrastructure, and also like backend. )</span>
 
-特に，**拡張性**，**保守性**，**可読性** を高める技術に関心が強いです．<br>
-<span style="font-size: 90%;">( In particular, I'm very interested in technologies that enhance **extensibility**, **maintainability** and readability. )</span>
+特に，**拡張性**，**保守性**，**可読性** を高める技術に関心が強く，日々学習しています．<br>
+<span style="font-size: 90%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**, so I keep learning these every day. )</span>
 
 ▶ クラウドインフラ，コンテナオーケストレーション，IaC，DDD，マイクロサービスアーキテクチャ，DevOps，など<br>
-<span style="font-size: 90%;">(Cloud infrastructure, Container orchestration, IaC, DDD, Microservices architecture, DevOps, etc.)</span>
+<span style="font-size: 90%;">(Cloud infrastructure, Container orchestration, IaC, DDD, Microservices architecture, DevOps, etc. )</span>
 
 <br>
 
