@@ -25,7 +25,7 @@ Webアプリケーションのインフラ領域に軸足を置きつつ，バ�
 <span style="font-size: 90%;">( In particular, I'm very interested in technologies that enhance **extensibility**, **maintainability** and readability. )</span>
 
 ▶ クラウドインフラ，コンテナオーケストレーション，IaC，DDD，マイクロサービスアーキテクチャ，DevOps，...<br>
-<span style="font-size: 90%;">(Cloud Infra, Container orchestration, IaC, DDD, Microservices architecture, DevOps... )</span>
+<span style="font-size: 90%;">(Cloud infrastructure, Container orchestration, IaC, DDD, Microservices architecture, DevOps... )</span>
 
 <br>
 
