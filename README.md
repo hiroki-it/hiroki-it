@@ -19,13 +19,13 @@
 ## 🎯 関心のある技術領域
 
 Webアプリケーションのインフラ領域に軸足を置きつつ，バックエンド領域も好きです．<br>
-<span style="font-size: 90%;">( I put my foot in infrastructure, and also like backend. )</span>
+<span style="font-size: 90%;">( I focus on web infrastructure, and also like backend. )</span>
 
 特に，**拡張性**，**保守性**，**可読性** を高める技術に関心が強く，継続的に学習しています．<br>
 <span style="font-size: 90%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**, so I keep learning these. )</span>
 
-▶ クラウドインフラ，コンテナオーケストレーション，IaC，DDD，マイクロサービスアーキテクチャ，DevOps，など<br>
-<span style="font-size: 90%;">(Cloud infrastructure, Container orchestration, IaC, DDD, Microservices architecture, DevOps, etc. )</span>
+▶ クラウドインフラ，コンテナオーケストレーション，サービスメッシュ，IaC，DDD，マイクロサービスアーキテクチャ，DevOps，など<br>
+<span style="font-size: 90%;">( Cloud infrastructure, Container orchestration, Service mesh, IaC, DDD, Microservices architecture, DevOps, etc. )</span>
 
 <br>
 
@@ -41,24 +41,24 @@ Webアプリケーションのインフラ領域に軸足を置きつつ，バ�
 ## 🏭 練習用リポジトリ
 
 アーキテクチャ関連の技術を人知れず練習しております．<br>
-<span style="font-size: 90%;">( I'm practicing architecture in the following repository. )</span>
+<span style="font-size: 90%;">( I practice architecture in the following repository. )</span>
 
 知見の共有になれば幸いです．<br>
 <span style="font-size: 90%;">( I would be happy if I could share my knowledge. )</span>
 
 ### ■ クリーンアーキテクチャ
 
-▶ https://github.com/hiroki-it/ddd-api-with-laravel （Clean-Arch，Laravel，GitHub Actions，...）
+▶ https://github.com/hiroki-it/ddd-api-with-laravel （ Clean-Arch，Laravel，GitHub Actions，など）
 
-▶ https://github.com/hiroki-it/ddd-api-with-go-gin （Clean-Arch，Gin，...）
+▶ https://github.com/hiroki-it/ddd-api-with-go-gin （ Clean-Arch，Gin，など）
 
-▶ https://github.com/hiroki-it/notify-slack-of-amplify-events （Clean-Arch，Go，Serverless Framework，CircleCI，...）
+▶ https://github.com/hiroki-it/notify-slack-of-amplify-events （ Clean-Arch，Go，Serverless Framework，CircleCI，など）
 
 ### ■ マイクロサービスアーキテクチャ
 
-▶ https://github.com/hiroki-it/microservices-backend （Microservices-Arch，...）
+▶ https://github.com/hiroki-it/microservices-backend （ Microservices-Arch，など）
 
-▶ https://github.com/hiroki-it/microservices-manifests （K8s，Istio，...）
+▶ https://github.com/hiroki-it/microservices-manifests （ K8s，Istio，など）
 
 <br>
 
