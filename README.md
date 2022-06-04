@@ -1,6 +1,6 @@
 # 自己紹介
 
-## 👋🏻 はじめまして (Hello)
+## 👋🏻 はじめまして (About me)
 
 長谷川広樹と申します。<br>
 <span style="font-size: 90%;">( I'm Hiroki Hasegawa. )</span>
