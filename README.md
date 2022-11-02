@@ -35,8 +35,11 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 特に、**拡張性**、**保守性**、**可読性** を高める技術に関心が強いです。<br>
 <span style="font-size: 90%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**)</span>
 
-▶ マイクロサービスアーキテクチャ、サービスメッシュ、DDD、クラウドインフラ、IaC、など<br>
-<span style="font-size: 90%;">( Microservices architecture, Service mesh, DDD, Cloud infrastructure, IaC, etc. )</span>
+- マイクロサービスアーキテクチャ (Microservices architecture)
+- サービスメッシュ (Service mesh)
+- DDD
+- クラウドインフラ (Cloud infrastructure)
+- IaC
 
 <br>
 
@@ -45,7 +48,7 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 技術的な知識を体系的に整理するため、ノートにまとめております。<br>
 <span style="font-size: 90%;">( In order to systematically organize technical knowledge, I summarize it in my notebook. )</span>
 
-▶ **[技術ノート](https://hiroki-it.github.io/tech-notebook-mkdocs/index.html)** (in Japanese)
+▶ **[技術ノート](https://hiroki-it.github.io/tech-notebook-mkdocs/)** (in Japanese)
 
 <br>
 
