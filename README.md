@@ -54,7 +54,7 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 <br>
 <span style="font-size: 90%;">(Also, I organize technical knowledge in my notebook further, and post it irregularly on my blog. )</span>
 
-▶ **[はてなブログ](https://hiroki-hasegawa.hatenablog.jp/)** (in Japanese)
+▶ **[はてなブログ](https://hiroki-hasegawa.hatenablog.jp/archive/)** (in Japanese)
 
 <br>
 
