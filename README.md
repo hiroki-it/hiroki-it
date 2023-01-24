@@ -5,9 +5,9 @@
 - [👋🏻 はじめまして (About me)](#-はじめまして-about-me)
 - [🎯 関心のある技術領域 (Area of interest)](#-関心のある技術領域-area-of-interest)
 - [📚 知見の記録 (Knowledge)](#-知見の記録-Knowledge)
-- [🏭 練習用リポジトリ (Repositories)](#-練習用リポジトリ-repositories)
 - [💼 経歴、職歴 (Career)](#-経歴職歴-career)
 - [📢 過去の技術系プレゼン (Presentation)](#-過去の技術系プレゼン-presentation)
+- [🏭 練習用リポジトリ (Repositories)](#-練習用リポジトリ-repositories)
 
 <br>
 
@@ -57,6 +57,25 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 <br>
 
+## 💼 経歴、職歴 (Career)
+
+詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
+<span style="font-size: 90%;">( For details, we would appreciate it if you could visit the following site. )</span>
+
+▶ **[Wantedly](https://www.wantedly.com/id/h_hasegawa)** (in Japanese)
+
+<br>
+
+## 📢 過去の技術系プレゼン (Presentation)
+
+詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
+<span style="font-size: 90%;">( For details, we would appreciate it if you could visit the following site. )</span>
+
+▶ **[Speaker Deck](https://speakerdeck.com/hiroki_hasegawa)** (in Japanese)
+
+<br>
+
+
 ## 🏭 練習用リポジトリ (Repositories)
 
 アーキテクチャ関連の技術を人知れず練習しております。<br>
@@ -82,20 +101,3 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 <br>
 
-## 💼 経歴、職歴 (Career)
-
-詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
-<span style="font-size: 90%;">( For details, we would appreciate it if you could visit the following site. )</span>
-
-▶ **[Wantedly](https://www.wantedly.com/id/h_hasegawa)** (in Japanese)
-
-<br>
-
-## 📢 過去の技術系プレゼン (Presentation)
-
-詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
-<span style="font-size: 90%;">( For details, we would appreciate it if you could visit the following site. )</span>
-
-▶ **[Speaker Deck](https://speakerdeck.com/hiroki_hasegawa)** (in Japanese)
-
-<br>
