@@ -35,10 +35,9 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 特に、**拡張性**、**保守性**、**可読性** を高める技術に関心が強いです。<br>
 <span style="font-size: 90%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**)</span>
 
-- Microservices architecture
+- Microservices Architecture infrastructure
 - Service Mesh
 - DDD
-- IaC (Kubernetes, Terraform)
 
 <br>
 
