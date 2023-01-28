@@ -88,16 +88,16 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 | 使用技術                                            | リポジトリ（in Japanese）                                                                            |
 | --------------------------------------------------- |-----------------------------------------------------------------------------------------------|
-| Clean-Arch、Laravel、GitHub Actions、...            | [ddd-backend-with-laravel](https://github.com/hiroki-it/ddd-backend-with-laravel)             |
-| Clean-Arch、Gin、...                                | [ddd-backend-with-gin](https://github.com/hiroki-it/ddd-backend-with-gin)                     |
-| Clean-Arch、Go、Serverless Framework、CircleCI、... | [notify-slack-of-amplify-events](https://github.com/hiroki-it/notify-slack-of-amplify-events) |
+| Clean-Arch、Laravel、GitHub Actions、...            | **[ddd-backend-with-laravel](https://github.com/hiroki-it/ddd-backend-with-laravel)**             |
+| Clean-Arch、Gin、...                                | **[ddd-backend-with-gin](https://github.com/hiroki-it/ddd-backend-with-gin)**                     |
+| Clean-Arch、Go、Serverless Framework、CircleCI、... | **[notify-slack-of-amplify-events](https://github.com/hiroki-it/notify-slack-of-amplify-events)** |
 
 ■ <ins>マイクロサービスアーキテクチャ</ins> (Microservices Architecture)
 
 | 使用技術                   | リポジトリ（in Japanese）                                                                            |
 |------------------------|-----------------------------------------------------------------------------------------------|
-| Microservices-Arch、... | [microservices-backend](https://github.com/hiroki-it/microservices-backend)                   |
-| K8s、Istio、ArgoCD、...   | [microservices-manifests](https://github.com/hiroki-it/microservices-manifests)               |
+| Microservices-Arch、... | **[microservices-backend](https://github.com/hiroki-it/microservices-backend)**                  |
+| K8s、Istio、ArgoCD、...   | **[microservices-manifests](https://github.com/hiroki-it/microservices-manifests)**               |
 
 <br>
 
