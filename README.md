@@ -48,10 +48,10 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 ▶ **[技術ノート](https://hiroki-it.github.io/tech-notebook-mkdocs/)** (in Japanese)
 
-また、技術ノートの知見をさらに整理し、不定期でブログに投稿しています。<br>
-<span style="font-size: 90%;">(Also, I organize technical knowledge in my notebook further, and post it irregularly on my blog. )</span>
+また、技術ノートから知見をピックアップし、不定期でブログに投稿しています。<br>
+<span style="font-size: 90%;">(Also, I pick up some knowledge from that notebook, and post it irregularly on my blog. )</span>
 
-▶ **[はてなブログ](https://hiroki-hasegawa.hatenablog.jp/)** (in Japanese)
+▶ **[はてなブログ](https://hiroki-hasegawa.hatenablog.jp/archive)** (in Japanese)
 
 <br>
 
