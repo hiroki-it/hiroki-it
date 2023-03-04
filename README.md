@@ -40,7 +40,7 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 <br>
 
-## 📚 知見の記録 (Knowledge)
+## 📚 知見 (Knowledge)
 
 技術的な知識を体系的に整理するため、ノートにまとめています。<br>
 <span style="font-size: 90%;">( In order to systematically organize technical knowledge, I often summarize it in my notebook. )</span>
