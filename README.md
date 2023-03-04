@@ -22,7 +22,7 @@
 その後、Webアプリケーションの **SWE** としてキャリアをスタートしました。<br>
 <span style="font-size: 90%;">( After that, I started my career as a **SWE** in web applications. )</span>
 
-現在は、**SRE** として働かさせていただいております。<br>
+現在は、**SRE** として働いています。<br>
 <span style="font-size: 90%;">( Currently, I'm working as a **SRE**. ) </span>
 
 <br>
@@ -43,8 +43,8 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 ## 📚 知見の記録 (Knowledge)
 
-技術的な知識を体系的に整理するため、ノートにまとめております。<br>
-<span style="font-size: 90%;">( In order to systematically organize technical knowledge, I summarize it in my notebook. )</span>
+技術的な知識を体系的に整理するため、ノートにまとめています。<br>
+<span style="font-size: 90%;">( In order to systematically organize technical knowledge, I often summarize it in my notebook. )</span>
 
 ↪️ **[技術ノート](https://hiroki-it.github.io/tech-notebook/)** (in Japanese)
 
@@ -52,6 +52,11 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 <span style="font-size: 90%;">(Also, I pick up some knowledge from that notebook, and post it irregularly on my blog. )</span>
 
 ↪️ **[はてなブログ](https://hiroki-hasegawa.hatenablog.jp/archive)** (in Japanese)
+
+時々、LTで知見を発表しています。<br>
+<span style="font-size: 90%;">( I sometimes present some knowledge at LT. )</span>
+
+↪️ **[Speaker Deck](https://speakerdeck.com/hiroki_hasegawa)** (in Japanese)
 
 <br>
 
@@ -64,19 +69,9 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 <br>
 
-## 📢 過去の技術系プレゼン (Presentation)
-
-詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
-<span style="font-size: 90%;">( For details, we would appreciate it if you could visit the following site. )</span>
-
-↪️ **[Speaker Deck](https://speakerdeck.com/hiroki_hasegawa)** (in Japanese)
-
-<br>
-
-
 ## 🏭 練習用リポジトリ (Repositories)
 
-アーキテクチャ関連の技術を人知れず練習しております。<br>
+アーキテクチャ関連の技術を人知れず練習しています。<br>
 <span style="font-size: 90%;">( I practice architecture in the following repository. )</span>
 
 知見の共有になれば幸いです。<br>
