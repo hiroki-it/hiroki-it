@@ -13,26 +13,26 @@
 ## 👋🏻 はじめまして (About me)
 
 長谷川広樹と申します。<br>
-<span style="font-size: 90%;">( I'm Hiroki Hasegawa. )</span>
+<span style="font-size: 85%;">( I'm Hiroki Hasegawa. )</span>
 
 大学院にて **データサイエンス** の分野で研究を行い、理学修士を習得しました。<br>
-<span style="font-size: 90%;">( I studied **Data Science** at the graduate school, and obtained a Master of Science. )</span>
+<span style="font-size: 85%;">( I studied **Data Science** at the graduate school, and obtained a Master of Science. )</span>
 
 その後、Webアプリケーションの **SWE** としてキャリアをスタートしました。<br>
-<span style="font-size: 90%;">( After that, I started my career as a **SWE** in web applications. )</span>
+<span style="font-size: 85%;">( After that, I started my career as a **SWE** in web applications. )</span>
 
 現在は、**SRE** として働いています。<br>
-<span style="font-size: 90%;">( Currently, I'm working as a **SRE**. ) </span>
+<span style="font-size: 85%;">( Currently, I'm working as a **SRE**. ) </span>
 
 <br>
 
 ## 🎯 関心のある技術領域 (Area of interest)
 
 Webアプリケーションのインフラ領域に軸足を置きつつ、バックエンド領域も好きです。<br>
-<span style="font-size: 90%;">( I focus on web infrastructure, and also like backend. )</span>
+<span style="font-size: 85%;">( I focus on web infrastructure, and also like backend. )</span>
 
 特に、**拡張性**、**保守性**、**可読性** を高める技術に関心が強いです。<br>
-<span style="font-size: 90%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**)</span>
+<span style="font-size: 85%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**)</span>
 
 - Microservices Architecture infrastructure
 - Service Mesh
@@ -43,17 +43,17 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 ## 📚 知見 (Knowledge)
 
 技術的な知識を体系的に整理するため、ノートにまとめています。<br>
-<span style="font-size: 90%;">( In order to systematically organize technical knowledge, I often summarize it in my notebook. )</span>
+<span style="font-size: 85%;">( In order to systematically organize technical knowledge, I often summarize it in my notebook. )</span>
 
 ↪️ **[技術ノート](https://hiroki-it.github.io/tech-notebook/)** (in Japanese)
 
 また、技術ノートから知見をピックアップし、不定期でブログに投稿しています。<br>
-<span style="font-size: 90%;">(Also, I pick up some knowledge from that notebook, and post it irregularly on my blog. )</span>
+<span style="font-size: 85%;">( Also, I pick up some knowledge from that notebook, and post it irregularly on my blog. )</span>
 
 ↪️ **[はてなブログ](https://hiroki-hasegawa.hatenablog.jp/archive)** (in Japanese)
 
 時々、LTで知見を発表しています。<br>
-<span style="font-size: 90%;">( I sometimes present some knowledge at LT. )</span>
+<span style="font-size: 85%;">( I sometimes present some knowledge at LT. )</span>
 
 ↪️ **[Speaker Deck](https://speakerdeck.com/hiroki_hasegawa)** (in Japanese)
 
@@ -62,7 +62,7 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 ## 💼 経歴、職歴 (Career)
 
 詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
-<span style="font-size: 90%;">( For details, we would appreciate it if you could visit the following site. )</span>
+<span style="font-size: 85%;">( For details, we would appreciate it if you could visit the following site. )</span>
 
 ↪️ **[Wantedly](https://www.wantedly.com/id/h_hasegawa)** (in Japanese)
 
@@ -71,10 +71,10 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 ## 🏭 練習用リポジトリ (Repositories)
 
 アーキテクチャ関連の技術を人知れず練習しています。<br>
-<span style="font-size: 90%;">( I practice architecture in the following repository. )</span>
+<span style="font-size: 85%;">( I practice architecture in the following repository. )</span>
 
 知見の共有になれば幸いです。<br>
-<span style="font-size: 90%;">( I would be happy if I could share my knowledge. )</span>
+<span style="font-size: 85%;">( I would be happy if I could share my knowledge. )</span>
 
 ■ <ins>クリーンアーキテクチャ</ins> (Clean Architecture)
 
