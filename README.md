@@ -12,7 +12,7 @@
 
 ## 👋🏻 はじめまして (About me)
 
-長谷川広樹と申します。<br>
+長谷川広樹です。<br>
 <span style="font-size: 85%;">( I'm Hiroki Hasegawa. )</span>
 
 大学院にて **データサイエンス** の分野で研究を行い、理学修士を習得しました。<br>
