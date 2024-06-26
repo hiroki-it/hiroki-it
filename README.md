@@ -37,10 +37,15 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 <br>
 
 具体的には...<br>
-<span style="font-size: 85%;">( In particular, )</span>
+<span style="font-size: 85%;">( In particular, ... )</span>
 
 - **Microservices Infrastructure (`L4` ~ `L7`)** 
 - **DDD**
+
+<br>
+
+言語は...<br>
+<span style="font-size: 85%;">( In programming language, ... )</span>
 
 ![Metrics](/github-metrics.svg)
 
