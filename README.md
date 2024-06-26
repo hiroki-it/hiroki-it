@@ -36,8 +36,8 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 <br>
 
-具体的には...<br>
-<span style="font-size: 85%;">( In particular, ... )</span>
+技術領域は...<br>
+<span style="font-size: 85%;">( In technical area, ... )</span>
 
 - **Microservices Infrastructure (`L4` ~ `L7`)** 
 - **DDD**
