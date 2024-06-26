@@ -22,8 +22,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           # HTML、CSS、Dockerfile、は対象外とする
-          plugin_languages_ignored: html, css, dockerfile, blade
-          plugin_languages_limit: 10
+          plugin_languages_ignored: html, css, dockerfile, blade, makefile
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
