@@ -32,12 +32,17 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 <span style="font-size: 85%;">( I focus on web infrastructure, and also like backend. )</span>
 
 特に、**拡張性**、**保守性**、**可読性** を高める技術に関心が強いです。<br>
-<span style="font-size: 85%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**)</span>
+<span style="font-size: 85%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**. )</span>
 
 <br>
 
+具体的には...<br>
+<span style="font-size: 85%;">( In particular, )</span>
+
 - **Microservices Infrastructure (`L4` ~ `L7`)** 
 - **DDD**
+
+![Metrics](/github-metrics.svg)
 
 <br>
 
