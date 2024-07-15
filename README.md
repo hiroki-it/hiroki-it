@@ -63,7 +63,7 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 ↪️ **[はてなブログ](https://hiroki-hasegawa.hatenablog.jp/archive)** (in Japanese)
 
-時々、LTで知見を発表しています。<br>
+時々、イベントで知見を登壇発表しています。<br>
 <span style="font-size: 85%;">( I sometimes present some knowledge at LT. )</span>
 
 ↪️ **[Speaker Deck](https://speakerdeck.com/hiroki_hasegawa)** (in Japanese)
