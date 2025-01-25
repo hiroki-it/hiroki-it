@@ -75,8 +75,6 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
 <span style="font-size: 85%;">( For details, we would appreciate it if you could visit the following site. )</span>
 
-↪️ **[Wantedly](https://www.wantedly.com/id/h_hasegawa)** (in Japanese)
-
 ↪️ **[Linkedin](https://www.linkedin.com/in/%E5%BA%83%E6%A8%B9-%E9%95%B7%E8%B0%B7%E5%B7%9D-21b051175/)** (in Japanese)
 
 <br>
