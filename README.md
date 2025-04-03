@@ -79,6 +79,15 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 <br>
 
+## 📖 書籍執筆 (Writing)
+
+詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
+<span style="font-size: 85%;">( For details, we would appreciate it if you could visit the following site. )</span>
+
+↪️ **[Amazon](https://www.amazon.co.jp/stores/%E9%95%B7%E8%B0%B7%E5%B7%9D-%E5%BA%83%E6%A8%B9/author/B0DTK474CL?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
+
+<br>
+
 ## 🏭 練習用リポジトリ (Repositories)
 
 アーキテクチャ関連の技術を人知れず練習しています。<br>
