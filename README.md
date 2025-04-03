@@ -7,7 +7,7 @@
 - [📚 知見 (Knowledge)](#-知見-Knowledge)
 - [💼 経歴、職歴 (Career)](#-経歴職歴-career)
 - [🏭 練習用リポジトリ (Repositories)](#-練習用リポジトリ-repositories)
-- [📖 書籍執筆 (Writing)](#-書籍執筆-writing)
+- [🖊️ 書籍執筆 (Writing)](#-書籍執筆-writing)
 
 <br>
 
@@ -105,7 +105,7 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 <br>
 
-## 📖 書籍執筆 (Writing)
+## 🖊️ 書籍執筆 (Writing)
 
 詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
 <span style="font-size: 85%;">( For details, we would appreciate it if you could visit the following site. )</span>
