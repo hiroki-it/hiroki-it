@@ -40,7 +40,7 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 技術領域は...<br>
 <span style="font-size: 85%;">( In technical area, ... )</span>
 
-- **Microservices Infrastructure (`L4` ~ `L7`)** 
+- **Microservices Architecture (`L4` ~ `L7`)** 
 - **DDD**
 
 <br>
