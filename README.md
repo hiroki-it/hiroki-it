@@ -32,16 +32,8 @@
 Webアプリケーションのインフラ領域に軸足を置きつつ、バックエンド領域も好きです。<br>
 <span style="font-size: 85%;">( I focus on web infrastructure, and also like backend. )</span>
 
-特に、**拡張性**、**保守性**、**可読性** を高める技術に関心が強いです。<br>
-<span style="font-size: 85%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**. )</span>
-
-<br>
-
-技術領域は...<br>
-<span style="font-size: 85%;">( In technical area, ... )</span>
-
-- **Microservices Architecture (`L4` ~ `L7`)** 
-- **DDD**
+特に、マイクロサービスアーキテクチャ、サービスメッシュ、ドメイン駆動設計といった **拡張性**、**保守性**、**可読性** を高める技術に関心が強いです。<br>
+<span style="font-size: 85%;">( I'm very interested in technologies that enhance **extensibility**, **maintainability** and **readability**, such as Microservice Architecture, Service Mesh, DDD. )</span>
 
 <br>
 
@@ -110,6 +102,6 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
 <span style="font-size: 85%;">( For details, we would appreciate it if you could visit the following site. )</span>
 
-↪️ **[Amazon](https://www.amazon.co.jp/stores/%E9%95%B7%E8%B0%B7%E5%B7%9D-%E5%BA%83%E6%A8%B9/author/B0DTK474CL?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)** (in Japanese)
+↪️ **[Amazon](https://www.amazon.co.jp/stores/author/B0DTK474CL/about)** (in Japanese)
 
 <br>
