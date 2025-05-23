@@ -32,7 +32,7 @@
 Webアプリケーションのインフラ領域に軸足を置きつつ、バックエンド領域も好きです。<br>
 <span style="font-size: 85%;">( I focus on web infrastructure, and also like backend. )</span>
 
-特に、**マイクロサービスアーキテクチャ**、**サービスメッシュ**、**ドメイン駆動設計**などの技術に関心が強いです。<br>
+特に、**マイクロサービスアーキテクチャ**、**サービスメッシュ**、**ドメイン駆動設計**などの技術が好きです。<br>
 <span style="font-size: 85%;">( I'm very interested in technologies such as Microservice Architecture, Service Mesh, DDD. )</span>
 
 <figure><img src="https://raw.githubusercontent.com/hiroki-it/hiroki-it/main/github-metrics.svg" alt="github-metrics"><figcaption>※ <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> を使って全リポジトリの使用言語を解析</figcaption></figure>
