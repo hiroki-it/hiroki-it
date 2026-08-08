@@ -6,7 +6,6 @@
 - [🎯 関心のある技術領域 (Area of interest)](#-関心のある技術領域-area-of-interest)
 - [📚 知見 (Knowledge)](#-知見-Knowledge)
 - [💼 経歴、職歴 (Career)](#-経歴職歴-career)
-- [🏭 練習用リポジトリ (Repositories)](#-練習用リポジトリ-repositories)
 - [✒️ 書籍執筆 (Writing)](#%EF%B8%8F-書籍執筆-writing)
 
 <br>
