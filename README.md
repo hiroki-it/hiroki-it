@@ -65,31 +65,6 @@ Webアプリケーションのインフラ領域に軸足を置きつつ、バ�
 
 <br>
 
-## 🏭 練習用リポジトリ (Repositories)
-
-アーキテクチャ関連の技術を人知れず練習しています。<br>
-<span style="font-size: 85%;">( I practice architecture in the following repository. )</span>
-
-知見の共有になれば幸いです。<br>
-<span style="font-size: 85%;">( I would be happy if I could share my knowledge. )</span>
-
-■ <ins>クリーンアーキテクチャ</ins> (Clean Architecture)
-
-| 使用技術                                            | リポジトリ（in Japanese）                                                                            |
-| --------------------------------------------------- |-----------------------------------------------------------------------------------------------|
-| Clean-Arch、Laravel、GitHub Actions、...            | ↪️ **[ddd-backend-with-laravel](https://github.com/hiroki-it/ddd-backend-with-laravel)**             |
-| Clean-Arch、Gin、...                                | ↪️ **[ddd-backend-with-gin](https://github.com/hiroki-it/ddd-backend-with-gin)**                     |
-| Clean-Arch、Go、Serverless Framework、CircleCI、... | ↪️ **[notify-slack-of-amplify-events](https://github.com/hiroki-it/notify-slack-of-amplify-events)** |
-
-■ <ins>マイクロサービスアーキテクチャ</ins> (Microservices Architecture)
-
-| 使用技術                   | リポジトリ（in Japanese）                                                                            |
-|------------------------|-----------------------------------------------------------------------------------------------|
-| Microservices-Arch、... | ↪️ **[microservices-backend](https://github.com/hiroki-it/microservices-backend)**                  |
-| K8s、Istio、ArgoCD、...   | ↪️ **[microservices-manifests](https://github.com/hiroki-it/microservices-manifests)**               |
-
-<br>
-
 ## ✒️ 書籍執筆 (Writing)
 
 詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
