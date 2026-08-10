@@ -8,13 +8,13 @@
 
 データサイエンス分野の研究を経て、Web サービス企業で SWE・SRE としてエンジニアのキャリアを始めました！
 
-現在はフィンテック領域で、Platform SWE および SRE（Embedded、Enabling、Platform）を担っています。さまざまなマイクロサービスアーキテクチャで、サービスメッシュ・マイクロサービス・CI/CD・IaC・クラウドインフラ・オブザーバビリティーを開発しながら、ステークホルダーとの組織横断的な合意形成や、フィンテック分野のミッションクリティカル要件を満たす開発に取り組んでいます！👊🔥
+現在はフィンテックドメインで、Platform SWE および SRE（Embedded、Enabling、Platform）を担っています。さまざまなマイクロサービスアーキテクチャに関わるサービスメッシュ・マイクロサービス・CI/CD・IaC・クラウドインフラ・オブザーバビリティー領域で、ステークホルダーとの組織横断的な合意形成や、ミッションクリティカル要件を満たす開発に取り組んでいます！👊🔥
 
 ### English
 
 After conducting research in data science, I began my engineering career as a SWE and SRE at a web services company!
 
-I’m currently working in fintech as a Platform SWE and SRE (Embedded, Enabling, and Platform). While developing service meshes, microservices, CI/CD, IaC, cloud infrastructure, and observability across various microservice architectures, I also focus on building cross-organizational consensus with stakeholders and ensuring that our systems meet the mission-critical requirements of the fintech industry! 👊🔥
+I’m currently working in the fintech domain as a Platform SWE and SRE (Embedded, Enabling, and Platform). Across various microservice architectures, I work in the areas of service meshes, microservices, CI/CD, IaC, cloud infrastructure, and observability, focusing on building cross-organizational consensus with stakeholders and developing systems that meet mission-critical requirements! 👊🔥
 
 <br>
 
