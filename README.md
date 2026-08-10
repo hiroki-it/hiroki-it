@@ -26,7 +26,7 @@ I’m currently working in the fintech domain as a Platform SWE and SRE (Embedde
 
 - REST、gRPCを使用したマイクロサービスアーキテクチャ
 - サービスメッシュとプロキシ（Istio⛵️🐬、Envoy、Nginx、OAuth2 Proxy）
-- CI/CD（Argo CD、GitHub Actions、GitLab CIなど）
+- CI/CD（Argo CD、GitLab CIなど）
 - クラウドインフラ（AWS、少しGoogle Cloudなど）、少しオンプレ
 - IaC（Kubernetes、Terraform、Helm、Karpenter、Ansible、Packerなど）
 - オブザーバビリティー（Fluent Bit、Grafana、Prometheus、OpenTelemetry、VictoriaMetrics、Datadogなど）
