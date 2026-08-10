@@ -1,4 +1,4 @@
-# I'm Hiroki Hasegawa
+# I'm Hiroki Hasegawa!
 
 <br>
 
@@ -6,15 +6,15 @@
 
 ### 日本語
 
-データサイエンス分野の研究を経て、Webサービス企業でSWE・SREを経験しました。
+データサイエンス分野の研究を経て、Webサービス企業でSWE・SREとしてエンジニアのキャリアを始めました！
 
-現在はフィンテック領域で、Platform SWEおよびSRE（Platform、Enabling、Embedded）を担っています。さまざまなマイクロサービスアーキテクチャにおいて、サービスメッシュ・マイクロサービス・CI/CD・IaC・クラウドインフラ・オブザーバビリティーを対象に、ステークホルダーとの組織横断的な合意形成や、フィンテック分野のミッションクリティカル要件を満たす開発に取り組んでいます。
+現在はフィンテック領域で、Platform SWEおよびSRE（Platform、Enabling、Embedded）を担っています。さまざまなマイクロサービスアーキテクチャにおいて、サービスメッシュ・マイクロサービス・CI/CD・IaC・クラウドインフラ・オブザーバビリティーを対象に、ステークホルダーとの組織横断的な合意形成や、フィンテック分野のミッションクリティカル要件を満たす開発に取り組んでいます！👊🔥
 
 ### English
 
-<span style="font-size: 85%;">After conducting research in data science, I worked as both a SWE and an SRE at a web services company.</span>
+After conducting research in data science, I began my engineering career as a SWE and SRE at a web services company!
 
-<span style="font-size: 85%;">I currently work in fintech as a Platform SWE and in various SRE roles—Platform, Enabling, and Embedded. Across diverse microservice architectures, I work on service meshes, microservices, CI/CD, IaC, cloud infrastructure, and observability, while facilitating cross-organizational alignment among stakeholders and developing systems that meet mission-critical requirements in fintech.</span>
+I currently work in fintech as a Platform SWE and in various SRE roles—Platform, Enabling, and Embedded. Across diverse microservice architectures, I work on service meshes, microservices, CI/CD, IaC, cloud infrastructure, and observability, while facilitating cross-organizational alignment among stakeholders and developing systems that meet mission-critical requirements in fintech! 👊🔥
 
 <br>
 
