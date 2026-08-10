@@ -18,7 +18,7 @@ I’m currently working in the fintech domain as a Platform SWE and SRE (Embedde
 
 <br>
 
-## 🛠 Technical Experience
+## 💼 Work Experience
 
 ### SRE
 
