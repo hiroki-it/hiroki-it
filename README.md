@@ -2,7 +2,7 @@
 
 <br>
 
-## 👋🏻 About me
+## ⛵️ About me 🐬
 
 ### 日本語
 
