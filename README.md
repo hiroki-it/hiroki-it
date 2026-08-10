@@ -1,74 +1,30 @@
-# 自己紹介 (Self-Introduction)
-
-## 目次 (Contents)
-
-- [👋🏻 はじめまして (About me)](#-はじめまして-about-me)
-- [🎯 関心のある技術領域 (Area of interest)](#-関心のある技術領域-area-of-interest)
-- [📚 知見 (Knowledge)](#-知見-Knowledge)
-- [💼 経歴、職歴 (Career)](#-経歴職歴-career)
-- [✒️ 書籍執筆 (Writing)](#%EF%B8%8F-書籍執筆-writing)
+# I'm Hiroki Hasegawa
 
 <br>
 
-## 👋🏻 はじめまして (About me)
+## 👋🏻 About me
 
-長谷川広樹です。<br>
-<span style="font-size: 85%;">( I'm Hiroki Hasegawa. )</span>
+### 日本語
 
-大学院にて **データサイエンス** の分野で研究を行い、理学修士を習得しました。<br>
-<span style="font-size: 85%;">( I studied **Data Science** at the graduate school, and obtained a Master of Science. )</span>
+データサイエンス分野の研究を経て、Webサービス企業でSWE・SREを経験しました。
 
-その後、Webアプリケーションの **SWE** としてキャリアをスタートしました。<br>
-<span style="font-size: 85%;">( After that, I started my career as a **SWE** in web applications. )</span>
+現在はフィンテック領域で、Platform SWEおよびSRE（Platform、Enabling、Embedded）を担っています。さまざまなマイクロサービスアーキテクチャにおいて、サービスメッシュ・マイクロサービス・CI/CD・IaC・クラウドインフラ・オブザーバビリティーを対象に、ステークホルダーとの組織横断的な合意形成や、フィンテック分野のミッションクリティカル要件を満たす開発に取り組んでいます。
 
-現在は、**SRE** として働いています。<br>
-<span style="font-size: 85%;">( Currently, I'm working as a **SRE**. ) </span>
+### English
 
-<br>
+<span style="font-size: 85%;">After conducting research in data science, I worked as both a SWE and an SRE at a web services company.</span>
 
-## 🎯 関心のある技術領域 (Area of interest)
-
-Webアプリケーションのインフラ領域に軸足を置きつつ、バックエンド領域も好きです。<br>
-<span style="font-size: 85%;">( I focus on web infrastructure, and also like backend. )</span>
-
-特に、**マイクロサービスアーキテクチャ**、**サービスメッシュ**、**ドメイン駆動設計**などの技術が好きです。<br>
-<span style="font-size: 85%;">( I'm very interested in technologies such as Microservice Architecture, Service Mesh, DDD. )</span>
+<span style="font-size: 85%;">I currently work in fintech as a Platform SWE and in various SRE roles—Platform, Enabling, and Embedded. Across diverse microservice architectures, I work on service meshes, microservices, CI/CD, IaC, cloud infrastructure, and observability, while facilitating cross-organizational alignment among stakeholders and developing systems that meet mission-critical requirements in fintech.</span>
 
 <br>
 
-## 📚 知見 (Knowledge)
+## 🔗 Links
 
-技術的な知識を体系的に整理するため、ノートにまとめています。<br>
-<span style="font-size: 85%;">( In order to systematically organize technical knowledge, I often summarize it in my notebook. )</span>
-
-↪️ **[技術ノート](https://hiroki-it.github.io/tech-notebook/)** (in Japanese)
-
-また、技術ノートから知見をピックアップし、不定期でブログに投稿しています。<br>
-<span style="font-size: 85%;">( Also, I pick up some knowledge from that notebook, and post it irregularly on my blog. )</span>
-
-↪️ **[はてなブログ](https://hiroki-hasegawa.hatenablog.jp/archive)** (in Japanese)
-
-時々、イベントで知見を登壇発表しています。<br>
-<span style="font-size: 85%;">( I sometimes present some knowledge at LT. )</span>
-
-↪️ **[Speaker Deck](https://speakerdeck.com/hiroki_hasegawa)** (in Japanese)
-
-<br>
-
-## 💼 経歴、職歴 (Career)
-
-詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
-<span style="font-size: 85%;">( For details, we would appreciate it if you could visit the following site. )</span>
-
-↪️ **[Linkedin](https://www.linkedin.com/in/h-hasegawa/)** (in Japanese)
-
-<br>
-
-## ✒️ 書籍執筆 (Writing)
-
-詳しくは、以下のサイトまでご訪問いただけると幸いです。<br>
-<span style="font-size: 85%;">( For details, we would appreciate it if you could visit the following site. )</span>
-
-↪️ **[Amazon](https://www.amazon.co.jp/stores/author/B0DTK474CL/about)** (in Japanese)
+- 🫶🏻 [魂の書籍執筆（推しに人生賭けろ！）/ Published Books](https://www.amazon.co.jp/stores/author/B0DTK474CL/about)
+- 💼 [LinkedIn](https://www.linkedin.com/in/h-hasegawa/)
+- 📝 [俺の技術ノート（知識の積み上げ）/ Tech Notes](https://hiroki-it.github.io/tech-notebook/)
+- 🗣️ [Speaker Deck（登壇一覧）/ Tech Talks](https://speakerdeck.com/hiroki_hasegawa)
+- 🐦 [X](https://x.com/Hiroki__IT)
+- ❓ [はてなブログ / Tech Blog](https://hiroki-hasegawa.hatenablog.jp/archive)
 
 <br>
