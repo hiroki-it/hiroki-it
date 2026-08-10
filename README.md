@@ -29,7 +29,7 @@ I’m currently working in the fintech domain as a Platform SWE and SRE (Embedde
 - CI/CD（Argo CD、GitLab CIなど）
 - クラウドインフラ（AWS、少しGoogle Cloudなど）、少しオンプレ
 - IaC（Kubernetes、Terraform、Helm、Karpenter、Ansible、Packerなど）
-- オブザーバビリティー（Fluent Bit、Grafana、Prometheus、OpenTelemetry、VictoriaMetrics、Datadogなど）
+- オブザーバビリティー（Fluent Bit、Grafana、Prometheus、少しOpenTelemetry、VictoriaMetrics、Datadogなど）
 
 ### SWE
 
