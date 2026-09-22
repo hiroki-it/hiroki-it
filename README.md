@@ -16,7 +16,7 @@
 
 After conducting research in data science at graduate school!
 
-I then joined a B2C web services company, where I worked on domain-driven design as a SWE and contributed to CI/CD, IaC, cloud infrastructure, observability, and the growth of the SRE team as an SRE!
+I then joined a B2C web services company! I worked on DDD as Product SWE, contributed to CI/CD, IaC, cloud infrastructure, observability as Embedded SRE, and growth of SRE Team!
 
 I currently serve as a tech lead for Platform Engineering and SRE—across Embedded, Enabling, and Platform roles—in the fintech domain. Across various microservices architectures, I work in service meshes, microservices, CI/CD, IaC, cloud infrastructure, and observability, leading cross-functional consensus-building with stakeholders and the development of systems that meet mission-critical requirements! 👊🔥
 
