@@ -4,7 +4,7 @@
 
 ## ⛵️ About me 🐬
 
-### 日本語
+### <ins>日本語</ins>
 
 大学院にて、データサイエンス分野の研究に取り組みました！
 
@@ -12,7 +12,7 @@
 
 現在はフィンテックドメイン💰️で、Platform SWE や SRE（Embedded、Enabling、Platform）のテックリードを担っています！さまざまなマイクロサービスアーキテクチャに関わるサービスメッシュ・マイクロサービス・CI/CD・IaC・クラウドインフラ・オブザーバビリティー領域で、ステークホルダーとの組織横断的な合意形成や、ミッションクリティカル要件を満たす開発のリードに取り組んでいます！👊🔥
 
-### English
+### <ins>English</ins>
 
 After conducting research in data science at graduate school!
 
@@ -22,9 +22,9 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 
 <br>
 
-## 💼 Work Experience (2026 年時点)
+## 💼 Work Experience（2026 年時点）
 
-### SRE
+### <ins>SRE</ins>
 
 実務経験のある形態：
 
@@ -41,7 +41,7 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 - IaC（Kubernetes、Terraform、Helm、Karpenter、Ansible、Packer など）
 - オブザーバビリティー（Fluent Bit、Grafana、Prometheus、少し OpenTelemetry、VictoriaMetrics、Datadog など）
 
-### SWE
+### <ins>SWE</ins>
 
 実務経験のある形態：
 
@@ -66,7 +66,7 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 ## 🔗 Links
 
 - 🫶🏻 [魂の書籍執筆（推しに人生賭けろ！）/ Published Books](https://www.amazon.co.jp/stores/author/B0DTK474CL/about)
-- 💼 [LinkedIn](https://www.linkedin.com/in/h-hasegawa/)
+- 💼 [LinkedIn（経歴／現場実績）](https://www.linkedin.com/in/h-hasegawa/)
 - 📝 [俺の技術ノート（知識の積み上げ）/ Tech Notes](https://hiroki-it.github.io/tech-notebook/)
 - 🗣️ [Speaker Deck（登壇一覧）/ Tech Talks](https://speakerdeck.com/hiroki_hasegawa)
 - 🐦 [X](https://x.com/Hiroki__IT)
