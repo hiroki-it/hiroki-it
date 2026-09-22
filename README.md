@@ -28,9 +28,9 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 
 経験のある形態 (2026 年時点)：
 
-- Embedded
-- Enabling
-- Platform
+- Embedded SRE
+- Enabling SRE
+- Platform SRE
 
 主な実務経験 (2026 年時点)：
 
@@ -45,8 +45,8 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 
 経験のある形態 (2026 年時点)：
 
-- Product
-- Platform
+- Product SWE
+- Platform SWE
 
 主な実務経験 (2026 年時点)：
 
