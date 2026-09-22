@@ -22,17 +22,17 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 
 <br>
 
-## 💼 Work Experience
+## 💼 Work Experience (2026 年時点)
 
 ### SRE
 
-経験のある形態 (2026 年時点)：
+実務経験のある形態：
 
 - Embedded SRE
 - Enabling SRE
 - Platform SRE
 
-主な実務経験 (2026 年時点)：
+実務経験のある技術：
 
 - REST、gRPC を使用したマイクロサービスアーキテクチャ
 - サービスメッシュとプロキシ（Istio⛵️🐬、Envoy、Nginx、OAuth2 Proxy）
@@ -43,12 +43,12 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 
 ### SWE
 
-経験のある形態 (2026 年時点)：
+実務経験のある形態：
 
 - Product SWE
 - Platform SWE
 
-主な実務経験 (2026 年時点)：
+実務経験のある技術：
 
 - バックエンド（ドメイン駆動設計、レイヤード／オニオンアーキテクチャ、マイクロサービス）
 - フロントエンド（Ajax・CSR の SPA、SSR アプリ）
