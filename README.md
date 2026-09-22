@@ -26,6 +26,12 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 
 ### SRE
 
+経験のある形態 (2026 年時点)：
+
+- Embedded
+- Enabling
+- Platform
+
 主な実務経験 (2026 年時点)：
 
 - REST、gRPC を使用したマイクロサービスアーキテクチャ
@@ -36,6 +42,11 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 - オブザーバビリティー（Fluent Bit、Grafana、Prometheus、少し OpenTelemetry、VictoriaMetrics、Datadog など）
 
 ### SWE
+
+経験のある形態 (2026 年時点)：
+
+- Product
+- Platform
 
 主な実務経験 (2026 年時点)：
 
