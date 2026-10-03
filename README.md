@@ -53,7 +53,7 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 - バックエンド（ドメイン駆動設計、レイヤード／オニオンアーキテクチャ、マイクロサービス）
 - フロントエンド（Ajax・CSR の SPA、SSR アプリ）
 - 言語（Go、PHP、TypeScript、JavaScript）
-- フレームワーク（Goフルスクラッチ、Gin、Laravel、Symfony、Remix、Vue.js）
+- フレームワーク（Goフルスクラッチ、少し Gin、Laravel、Symfony、Remix、Vue.js）
 - API（REST、少し gRPC）
 - 通信方式（リクエスト／レスポンス、パブリッシュ／サブスクライブ）
 - ストレージ（MySQL、Redis、AWS S3、AWS DynamoDB）
