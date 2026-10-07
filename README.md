@@ -60,7 +60,7 @@ I currently serve as a tech lead for Platform Engineering and SRE—across Embed
 - 認証（Keycloak）
 - ユニットテスト（go testing、PHPUnit、Vitest）
 - E2E テスト (Cypress)
-- AI エージェント駆動開発（Claude Code、Claude Code Action、PR-Agent）
+- AI エージェント駆動開発（Claude Code、Claude Code CI/CD、PR-Agent）
 
 <br>
 
