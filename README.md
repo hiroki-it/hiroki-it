@@ -34,13 +34,13 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 
 実務経験のある技術：
 
-- `REST`、`gRPC` を使用したマイクロサービスアーキテクチャ
-- サービスメッシュとプロキシ（`Istio`⛵️🐬、`Envoy`、`Nginx`、`OAuth2 Proxy`）
-- CI/CD（`Argo CD`、`GitLab CI` など）
-- クラウドインフラ（`AWS`、少し `Google Cloud` など）
-- 少しオンプレミス（`Linux`、`CentOS`）
-- IaC（`Kubernetes`、`Terraform`、`Helm`、`Karpenter`、`Ansible`、`Packer` など）
-- オブザーバビリティー（`Fluent Bit`、`Grafana`、`Prometheus`、少し `OpenTelemetry`、`VictoriaMetrics`、`Datadog` など）
+- **REST**、**gRPC** を使用したマイクロサービスアーキテクチャ
+- サービスメッシュとプロキシ（**Istio**⛵️🐬、**Envoy**、**Nginx**、**OAuth2 Proxy**）
+- CI/CD（**Argo CD**、**GitLab CI** など）
+- クラウドインフラ（**AWS**、少し **Google Cloud** など）
+- 少しオンプレミス（**Linux**、**CentOS**）
+- IaC（**Kubernetes**、**Terraform**、**Helm**、**Karpenter**、**Ansible**、**Packer** など）
+- オブザーバビリティー（**Fluent Bit**、**Grafana**、**Prometheus**、少し **OpenTelemetry**、**VictoriaMetrics**、**Datadog** など）
 
 ### <ins>SWE</ins>
 
@@ -52,16 +52,16 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 実務経験のある技術：
 
 - バックエンド（ドメイン駆動設計、レイヤード／オニオンアーキテクチャ、マイクロサービス）
-- フロントエンド（`Ajax`・`CSR` の `SPA`、`SSR` アプリ）
-- 言語（`Go`、`PHP`、`TypeScript`、`JavaScript`）
-- フレームワーク（`Go`フルスクラッチ、少し `Gin`、`Laravel`、`Symfony`、`Remix`、`Vue.js`）
-- API（`REST`、少し `gRPC`）
+- フロントエンド（**Ajax**・**CSR** の **SPA**、**SSR**）
+- 言語（**Go**、**PHP**、**TypeScript**、**JavaScript**）
+- フレームワーク（**Go**フルスクラッチ、少し **Gin**、**Laravel**、**Symfony**、**Remix**、**Vue.js**）
+- API（**REST**、少し **gRPC**）
 - 通信方式（リクエスト／レスポンス、パブリッシュ／サブスクライブ）
-- ストレージ（`MySQL`、`Redis`、`AWS S3`、`AWS DynamoDB`）
-- 認証（`Keycloak`）
-- ユニットテスト（`go testing`、`PHPUnit`、`Vitest`）
-- E2E テスト (`Cypress`)
-- AI エージェント駆動開発（`Codex`、`Claude Code`、`Claude Code CI/CD`、`PR-Agent`）
+- ストレージ（**MySQL**、**Redis**、**AWS S3**、**AWS DynamoDB**）
+- 認証（**Keycloak**）
+- ユニットテスト（**go testing**、**PHPUnit**、**Vitest**）
+- E2E テスト (**Cypress**)
+- AI エージェント駆動開発（**Codex**、**Claude Code**、**Claude Code CI/CD**、**PR-Agent**）
 
 <br>
 
