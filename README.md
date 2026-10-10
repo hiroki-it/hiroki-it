@@ -61,7 +61,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 - 認証（**Keycloak**）
 - ユニットテスト（**go testing**、**PHPUnit**、**Vitest**）
 - E2E テスト (**Cypress**)
-- AI エージェント駆動開発（**Codex**、**Claude Code**、**Claude Code CI/CD**、**PR-Agent**）
+- AI エージェント駆動開発（**Claude Code**、**Claude Code CI/CD**、**PR-Agent**）
 
 <br>
 
