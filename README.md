@@ -10,7 +10,7 @@
 
 その後、BtoC Web サービス企業に入社しました！複数プロダクトの Product SWE としてドメイン駆動設計に取り組み、また、複数プロダクトの Embedded SRE として CI/CD・IaC・クラウドインフラ・オブザーバビリティー領域での開発や SRE チーム拡大に貢献しました！
 
-現在はフィンテックドメインで、マイクロサービスアーキテクチャに関する Platform SWE や Embedded/Enabling/Platform SRE として、テックリードを担っています。サービスメッシュ・マイクロサービス・CI/CD・IaC・マルチクラウドインフラ・オブザーバビリティー領域で、ステークホルダーとの組織横断的な合意形成や、ミッションクリティカル要件を満たす開発のリードに取り組んでいます！👊🔥
+現職ではフィンテックドメインで、マイクロサービスアーキテクチャに関する Platform SWE や Embedded/Enabling/Platform SRE として、テックリードを担っています！サービスメッシュ・マイクロサービス・CI/CD・IaC・マルチクラウドインフラ・オブザーバビリティー領域で、ステークホルダーとの組織横断的な合意形成、チームの意思決定の推進、ミッションクリティカル要件を満たす開発のリードに取り組んでいます！👊🔥
 
 ### <ins>English</ins>
 
@@ -18,7 +18,7 @@ After conducting research in data science at graduate school!
 
 I joined a B2C web services company, and then worked on DDD as Product SWE! I contributed to CI/CD, IaC, cloud infrastructure, observability as Embedded SRE, and growth of SRE Team!
 
-I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform SRE roles, focusing on microservices architectures in the fintech domain. In service meshes, microservices, CI/CD, IaC, multicloud infrastructure, and observability, I lead cross-functional consensus-building with stakeholders and the development of systems that meet mission-critical requirements! 👊🔥
+I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform SRE roles, focusing on microservices architectures in the fintech domain. In service meshes, microservices, CI/CD, IaC, multicloud infrastructure, and observability, I build cross-functional consensus with stakeholders, drive team decision-making, and lead the development of systems that meet mission-critical requirements! 👊🔥
 
 <br>
 
