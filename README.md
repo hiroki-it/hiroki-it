@@ -24,7 +24,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 
 ## 💼 Work Experience（2026 年時点）
 
-### <ins>SRE</ins>
+### <ins>SRE として</ins>
 
 #### ■ 形態
 
@@ -49,7 +49,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 - IaC（**Kubernetes**、**Terraform**、**Helm**、**Karpenter**、**Ansible**、**Packer** など）
 - オブザーバビリティー（**Fluent Bit**、**Grafana**、**Prometheus**、少し **OpenTelemetry**、**VictoriaMetrics**、**Datadog** など）
 
-### <ins>SWE</ins>
+### <ins>SWE として</ins>
 
 #### ■ 形態
 
