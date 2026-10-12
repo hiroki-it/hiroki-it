@@ -42,7 +42,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 主な実務経験：
 
 - REST、gRPC を使用した **マイクロサービスアーキテクチャ**
-- サービスメッシュとプロキシ（**Istio**⛵️🐬、**Envoy**、**Nginx**、**OAuth2 Proxy**）
+- サービスメッシュとプロキシ（**Istio**⛵️🐬 ← 推し♡、**Envoy**、**Nginx**、**OAuth2 Proxy**）
 - CI/CD（**Argo CD**、**GitLab CI** など）
 - クラウドインフラ（**AWS**、少し **Google Cloud** など）
 - 少しオンプレミス（**Linux**、**CentOS**）
