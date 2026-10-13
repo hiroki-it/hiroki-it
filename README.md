@@ -39,7 +39,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 
 #### ■ ハードスキル
 
-主な実務経験：
+実務経験のある主な技術：
 
 - REST、gRPC を使用した **マイクロサービスアーキテクチャ**
 - サービスメッシュとプロキシ（**Istio**⛵️🐬 ← 推し🫶🏻、**Envoy**、**Nginx**、**OAuth2 Proxy**）
@@ -62,7 +62,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 
 #### ■ ハードスキル
 
-主な実務経験：
+実務経験のある主な技術：
 
 - バックエンドアーキテクチャ（**ドメイン駆動設計**、**レイヤード／オニオンアーキテクチャ**、**マイクロサービス**）
 - フロントエンドアーキテクチャ（**Ajax**・**CSR** の **SPA**、**SSR**）
