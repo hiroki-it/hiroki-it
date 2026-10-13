@@ -78,7 +78,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 
 <br>
 
-## 🔗 Links
+## 🔗 関連リンク / Links
 
 - 🫶🏻 [魂の書籍執筆（推しに人生賭けろ！）/ Published Books](https://www.amazon.co.jp/stores/author/B0DTK474CL/about)
 - 💼 [LinkedIn（経歴／現場実績）](https://www.linkedin.com/in/h-hasegawa/)
