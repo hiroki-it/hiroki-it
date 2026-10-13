@@ -2,7 +2,7 @@
 
 <br>
 
-## ⛵️ About me 🐬
+## ⛵️ 自己紹介 / About me 🐬
 
 ### <ins>日本語</ins>
 
@@ -22,7 +22,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 
 <br>
 
-## 💼 Work Experience（2026 年時点）
+## 💼 実務経験 / Work Experience（2026 年時点）
 
 ### <ins>SRE として</ins>
 
