@@ -42,12 +42,13 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 実務経験のある主な技術：
 
 - REST、gRPC を使用した **マイクロサービスアーキテクチャ**
-- サービスメッシュとプロキシ（**Istio**⛵️🐬 ← 推し🫶🏻、**Envoy**、**Nginx**、**OAuth2 Proxy**）
+- サービスメッシュとプロキシ（**Istio**⛵️🐬 ← 推し🫶🏻、**Envoy**、**Nginx**）
 - CI/CD（**Argo CD**、**GitLab CI** など）
 - クラウドインフラ（**AWS**、少し **Google Cloud** など）
 - 少しオンプレミス（**Linux**、**CentOS**）
 - IaC（**Kubernetes**、**Terraform**、**Helm**、**Karpenter**、**Ansible**、**Packer** など）
 - オブザーバビリティー（**Fluent Bit**、**Grafana**、**Prometheus**、少し **OpenTelemetry**、**VictoriaMetrics**、**Datadog** など）
+- 少しインシデント管理（**PagerDuty**）
 
 ### <ins>SWE として</ins>
 
@@ -65,7 +66,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 実務経験のある主な技術：
 
 - バックエンドアーキテクチャ（**ドメイン駆動設計**、**レイヤード／オニオンアーキテクチャ**、**マイクロサービス**）
-- フロントエンドアーキテクチャ（**Ajax**・**CSR** の **SPA**、**SSR**）
+- フロントエンドアーキテクチャ（**SPA**、**SSR**）
 - 言語（**Go**、**PHP**、**TypeScript**、**JavaScript**）
 - フレームワーク（**Go** 標準ライブラリ群、少し **Gin**、**Symfony**、**Remix**、**Vue.js**）
 - API（**REST**、少し **gRPC**）
