@@ -44,7 +44,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 - REST、gRPC を使用した **マイクロサービスアーキテクチャ**
 - サービスメッシュとプロキシ（**Istio**⛵️🐬 ← 推し🫶🏻、**Envoy**、**Nginx**）
 - CI/CD（**Argo CD**、**GitLab CI** など）
-- クラウドインフラ（**AWS**、少し **Google Cloud** など）
+- クラウドインフラ（**AWS**、**Google Cloud**）
 - 少しオンプレミス（**Linux**、**CentOS**）
 - IaC（**Kubernetes**、**Terraform**、**Helm**、**Karpenter**、**Ansible**、**Packer** など）
 - オブザーバビリティー（**Fluent Bit**、**Grafana**、**Prometheus**、少し **OpenTelemetry**、**VictoriaMetrics**、**Datadog** など）
