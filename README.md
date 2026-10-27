@@ -8,17 +8,17 @@
 
 大学院にて、データサイエンス分野の研究に取り組みました！
 
-その後、BtoC Web サービス企業に入社しました！複数プロダクトの Product SWE としてドメイン駆動設計に取り組み、また、複数プロダクトの Embedded SRE として CI/CD・IaC・クラウドインフラ・オブザーバビリティー領域での開発や SRE チームの拡大に貢献しました！
+その後、BtoC Web サービス企業に入社しました！複数プロダクトの Product SWE としてドメイン駆動設計に取り組み、また、複数プロダクトの Product SRE として CI/CD・IaC・クラウドインフラ・オブザーバビリティー領域での開発や SRE チームの拡大に貢献しました！
 
-現職ではフィンテックドメインで、マイクロサービスアーキテクチャに関する Platform SWE や Embedded/Enabling/Platform SRE として、テックリードを担っています！サービスメッシュ・マイクロサービス・CI/CD・IaC・マルチクラウドインフラ・オブザーバビリティー領域で、ステークホルダーとの組織横断的な合意形成、技術的な意思決定の推進、ミッションクリティカル要件を満たすプロダクト開発のリードに取り組んでいます！👊🔥
+現職ではフィンテックドメインで、マイクロサービスアーキテクチャに関する Platform SWE や Product/Enabling/Platform SRE として、テックリードを担っています！サービスメッシュ・マイクロサービス・CI/CD・IaC・マルチクラウドインフラ・オブザーバビリティー領域で、ステークホルダーとの組織横断的な合意形成、技術的な意思決定の推進、ミッションクリティカル要件を満たすプロダクト開発のリードに取り組んでいます！👊🔥
 
 ### <ins>English</ins>
 
 After conducting research in data science at graduate school!
 
-I joined a B2C web services company, and then worked on DDD as Product SWE! I contributed to CI/CD, IaC, cloud infrastructure, observability as Embedded SRE, and growth of SRE Team!
+I joined a B2C web services company, and then worked on DDD as Product SWE! I contributed to CI/CD, IaC, cloud infrastructure, observability as Product SRE, and growth of SRE Team!
 
-I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform SRE roles, focusing on microservices architectures in the fintech domain. In service meshes, microservices, CI/CD, IaC, multicloud infrastructure, and observability, I build cross-functional consensus with stakeholders, drive team decision-making, and lead the development of systems that meet mission-critical requirements! 👊🔥
+I currently serve as a tech lead in Platform SWE and Product/Enabling/Platform SRE roles, focusing on microservices architectures in the fintech domain. In service meshes, microservices, CI/CD, IaC, multicloud infrastructure, and observability, I build cross-functional consensus with stakeholders, drive team decision-making, and lead the development of systems that meet mission-critical requirements! 👊🔥
 
 <br>
 
@@ -28,7 +28,7 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 
 #### ■ 形態
 
-- Embedded SRE
+- Product SRE
 - Enabling SRE
 - Platform SRE
 
@@ -41,13 +41,13 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 
 実務経験のある主な技術：
 
-- REST、gRPC を使用した **マイクロサービスアーキテクチャ**
-- サービスメッシュとプロキシ（**Istio**⛵️🐬 ← 推し🫶🏻、**Envoy**、**Nginx**）
-- CI/CD（**Argo CD**、**GitLab CI** など）
-- クラウドインフラ（**AWS**、**Google Cloud**）
-- 少しオンプレミス（**Linux**、**CentOS**）
-- IaC（**Kubernetes**、**Terraform**、**Helm**、**Karpenter**、**Ansible**、**Packer** など）
-- オブザーバビリティー（**Fluent Bit**、**Grafana**、**Prometheus**、少し **OpenTelemetry**、**VictoriaMetrics**、**Datadog** など）
+- REST, gRPC を使用した **マイクロサービスアーキテクチャ**
+- サービスメッシュとプロキシ（**Istio**⛵️🐬 ← 推し🫶🏻, **Envoy**, **Nginx**）
+- CI/CD（**Argo CD**, **GitLab CI** など）
+- クラウドインフラ（**AWS**, **Google Cloud**）
+- 少しオンプレミス（**Linux**, **CentOS**）
+- IaC（**Kubernetes**, **Terraform**, **Helm**, **Karpenter**, **Ansible**, **Packer** など）
+- オブザーバビリティー（**Fluent Bit**, **Grafana**, **Prometheus**, 少し **OpenTelemetry**, **VictoriaMetrics**, **Datadog** など）
 - 少しインシデント管理（**PagerDuty**）
 
 ### <ins>SWE として</ins>
@@ -65,17 +65,17 @@ I currently serve as a tech lead in Platform SWE and Embedded/Enabling/Platform 
 
 実務経験のある主な技術：
 
-- バックエンドアーキテクチャ（**ドメイン駆動設計**、**レイヤード／オニオンアーキテクチャ**、**マイクロサービス**）
-- フロントエンドアーキテクチャ（**SPA**、**SSR**）
-- 言語（**Go**、**PHP**、**TypeScript**、**JavaScript**）
-- フレームワーク（**Go** 標準ライブラリ群、少し **Gin**、**Symfony**、**Remix**、**Vue.js**）
-- API（**REST**、少し **gRPC**）
-- 通信方式（リクエスト／レスポンス、パブリッシュ／サブスクライブ）
-- ストレージ（**MySQL**、**Redis**、**AWS S3**、**AWS DynamoDB**）
+- バックエンドアーキテクチャ（**ドメイン駆動設計**, **レイヤード／オニオンアーキテクチャ**, **マイクロサービス**）
+- フロントエンドアーキテクチャ（**SPA**, **SSR**）
+- 言語（**Go**, **PHP**, **TypeScript**, **JavaScript**）
+- フレームワーク（**Go** 標準ライブラリ群, 少し **Gin**, **Symfony**, **Remix**, **Vue.js**）
+- API（**REST**, 少し **gRPC**）
+- 通信方式（リクエスト／レスポンス, パブリッシュ／サブスクライブ）
+- ストレージ（**MySQL**, **Redis**, **AWS S3**, **AWS DynamoDB**）
 - 認証（**Keycloak**）
-- ユニットテスト（**go testing**、**PHPUnit**、**Vitest**）
+- ユニットテスト（**go testing**, **PHPUnit**, **Vitest**）
 - E2E テスト (**Cypress**)
-- AI エージェント駆動開発（**Claude Code**、**Claude Code CI/CD**、**PR-Agent**）
+- AI エージェント駆動開発（**Claude Code**, **Claude Code CI/CD**, **PR-Agent**）
 
 <br>
 
