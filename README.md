@@ -45,10 +45,10 @@ I currently serve as a tech lead in Platform SWE and Product/Enabling/Platform S
 - サービスメッシュとプロキシ（**Istio**⛵️🐬 ← 推し🫶🏻, **Envoy**, **Nginx**）
 - CI/CD（**Argo CD**, **GitLab CI** など）
 - クラウドインフラ（**AWS**, **Google Cloud**）
-- 少しオンプレミス（**Linux**, **CentOS**）
+- OS（**Linux**, **CentOS**）
 - IaC（**Kubernetes**, **Terraform**, **Helm**, **Karpenter**, **Ansible**, **Packer** など）
 - オブザーバビリティー（**Fluent Bit**, **Grafana**, **Prometheus**, 少し **OpenTelemetry**, **VictoriaMetrics**, **Datadog** など）
-- 少しインシデント管理（**PagerDuty**）
+- インシデント管理（少し **PagerDuty**）
 
 ### <ins>SWE として</ins>
 
