@@ -69,16 +69,17 @@ I currently serve as a tech lead in Platform SWE and Product/Enabling/Platform S
   - アーキテクチャ（**ドメイン駆動設計**, **レイヤード／オニオンアーキテクチャ**, **マイクロサービス**）
   - 言語（**Go**, **PHP**, 少し **Rust**, **TypeScript**）
   - フレームワーク（**Go** 標準ライブラリ群, 少し **Gin**, **Symfony**, **Remix**）
+  - ユニットテスト（**go testing**, **PHPUnit**, **Vitest**）
 - フロントエンド
   - アーキテクチャ（**SPA**, **SSR**）
   - 言語（**TypeScript**, **JavaScript**）
   - フレームワーク（**Remix**, **Vue.js**）
+  - ユニットテスト（**Vitest**）
+  - E2E テスト (**Cypress**)
 - API（**REST**, 少し **gRPC**）
+- 認証（**Keycloak**）
 - 通信方式（リクエスト／レスポンス, パブリッシュ／サブスクライブ）
 - ストレージ（**MySQL**, **Redis**, **AWS S3**, **AWS DynamoDB**）
-- 認証（**Keycloak**）
-- ユニットテスト（**go testing**, **PHPUnit**, **Vitest**）
-- E2E テスト (**Cypress**)
 - AI エージェント駆動開発（**Claude Code**, **Claude Code CI/CD**, **PR-Agent**）
 
 <br>
