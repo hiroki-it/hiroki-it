@@ -65,11 +65,14 @@ I currently serve as a tech lead in Platform SWE and Product/Enabling/Platform S
 
 実務経験のある主な技術：
 
-- バックエンドアーキテクチャ（**ドメイン駆動設計**, **レイヤード／オニオンアーキテクチャ**, **マイクロサービス**）
-- フロントエンドアーキテクチャ（**SPA**, **SSR**）
-- バックエンド言語（**Go**, **PHP**, 少し **Rust**, **TypeScript**）
-- フロントエンド言語（**TypeScript**, **JavaScript**）
-- フレームワーク（**Go** 標準ライブラリ群, 少し **Gin**, **Symfony**, **Remix**, **Vue.js**）
+- バックエンド
+  - アーキテクチャ（**ドメイン駆動設計**, **レイヤード／オニオンアーキテクチャ**, **マイクロサービス**）
+  - 言語（**Go**, **PHP**, 少し **Rust**, **TypeScript**）
+  - フレームワーク（**Go** 標準ライブラリ群, 少し **Gin**, **Symfony**, **Remix**）
+- フロントエンド
+  - アーキテクチャ（**SPA**, **SSR**）
+  - 言語（**TypeScript**, **JavaScript**）
+  - フレームワーク（**Remix**, **Vue.js**）
 - API（**REST**, 少し **gRPC**）
 - 通信方式（リクエスト／レスポンス, パブリッシュ／サブスクライブ）
 - ストレージ（**MySQL**, **Redis**, **AWS S3**, **AWS DynamoDB**）
