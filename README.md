@@ -36,6 +36,7 @@ I currently serve as a tech lead in Platform SWE and Product/Enabling/Platform S
 
 - テックリード
 - サブリード
+- チーム外の技術アドバイザー
 
 #### ■ ハードスキル
 
