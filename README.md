@@ -69,7 +69,7 @@ I currently serve as a tech lead in Platform SWE and Product/Enabling/Platform S
 - バックエンド
   - アーキテクチャ（**ドメイン駆動設計**, **レイヤード／オニオンアーキテクチャ**, **マイクロサービス**）
   - 言語（**Go**, **PHP**, 少し **Rust**, **TypeScript**）
-  - フレームワーク（**Go** 標準ライブラリ群, 少し **Gin**, **Symfony**, **Remix**）
+  - フレームワーク（**Go** 標準ライブラリ群, 少し **Gin**, **Symfony**, **Remix**, **Terraform Plugin Framework**）
   - ユニットテスト（**go testing**, **PHPUnit**, **Vitest**）
 - フロントエンド
   - アーキテクチャ（**SPA**, **SSR**）
