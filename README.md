@@ -68,8 +68,8 @@ I currently serve as a tech lead in Platform SWE and Product/Enabling/Platform S
 
 - バックエンド
   - アーキテクチャ（**ドメイン駆動設計**, **レイヤード／オニオンアーキテクチャ**, **マイクロサービス**）
-  - 言語（**Go**, **PHP**, 少し **Rust**, **TypeScript**）
-  - フレームワーク（**Go** 標準ライブラリ群, 少し **Gin**, **Symfony**, **Remix**, **Terraform Plugin Framework**）
+  - 言語（**Go**, **PHP**, **TypeScript**）
+  - フレームワーク（**Go** 標準ライブラリ群, 少し **Gin**, **Symfony**, **Remix**）
   - ユニットテスト（**go testing**, **PHPUnit**, **Vitest**）
 - フロントエンド
   - アーキテクチャ（**SPA**, **SSR**）
@@ -77,6 +77,9 @@ I currently serve as a tech lead in Platform SWE and Product/Enabling/Platform S
   - フレームワーク（**Remix**, **Vue.js**）
   - ユニットテスト（**Vitest**）
   - E2E テスト (**Cypress**)
+- CLI
+  - 言語（**Go**, 少し **Rust**）
+  - フレームワーク（**Terraform Plugin Framework**）
 - API（**REST**, 少し **gRPC**）
 - 認証（**Keycloak**）
 - 通信方式（リクエスト／レスポンス, パブリッシュ／サブスクライブ）
