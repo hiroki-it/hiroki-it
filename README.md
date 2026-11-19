@@ -82,7 +82,7 @@ I currently serve as a tech lead in Platform SWE and Product/Enabling/Platform S
   - フレームワーク（**Terraform Plugin Framework**）
 - API（**REST**, 少し **gRPC**）
 - 認証（**Keycloak**）
-- 通信方式（リクエスト／レスポンス, パブリッシュ／サブスクライブ）
+- 通信方式（リクエスト／レスポンス, パブリッシュ／サブスクライブ, データ共有）
 - ストレージ（**MySQL**, **Redis**, **AWS S3**, **AWS DynamoDB**）
 - AI エージェント駆動開発（**Claude Code**, **Claude Code CI/CD**, **PR-Agent**）
 
